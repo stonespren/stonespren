@@ -1,6 +1,6 @@
 <h1>Hi! I'm Parker Stone 👋</h1>
 
-> As an experienced Full Stack Web Developer developer, I am passionate about solving real world problems with technology. I enjoy working on projects both independently as well as part of a team. I am always expanding my knowledge and love learning new technologies.
+As an experienced Full Stack Web Developer developer, I am passionate about solving real world problems with technology. I enjoy working on projects both independently as well as part of a team. I am always expanding my knowledge and love learning new technologies.
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/stonespren)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/parker-stone/)
