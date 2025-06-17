@@ -169,7 +169,6 @@ As an experienced Full Stack Web Developer developer, I am passionate about solv
 - CSS
 - Styled Components
 - Sass
-- PostCSS
 - CSS Modules
 - Figma
 - React Query
